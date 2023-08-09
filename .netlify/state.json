@@ -1,0 +1,20 @@
+{
+	"siteId": "32f9392a-51ea-4619-a008-5f586691575b",
+	"geolocation": {
+		"data": {
+			"city": "Berlin",
+			"country": {
+				"code": "DE",
+				"name": "Germany"
+			},
+			"subdivision": {
+				"code": "BE",
+				"name": "Land Berlin"
+			},
+			"timezone": "Europe/Berlin",
+			"latitude": 52.5155,
+			"longitude": 13.4059
+		},
+		"timestamp": 1691519754029
+	}
+}
